@@ -1,4 +1,4 @@
 OTPHP
 =====
 
-A one-time password library for PHP
+An object-oriented one-time password library for PHP
